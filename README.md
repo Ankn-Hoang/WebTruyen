@@ -1,2 +1,2 @@
-# Web-c-nh-n
+# WebTruyen
 Tác phần BTL của Ankn
